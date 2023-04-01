@@ -1,2 +1,3 @@
 # Python-Projects
-Bu repoda python projeleri bulunmaktadır.
+## Eklenen Projeler
+- To Do App
